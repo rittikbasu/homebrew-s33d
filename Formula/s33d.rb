@@ -1,6 +1,7 @@
 class S33d < Formula
     desc "A beautiful, fast BIP39 mnemonic generator"
     homepage "https://github.com/rittikbasu/s33d"
+    version "0.3.0"
     license "MIT"
   
     on_macos do
